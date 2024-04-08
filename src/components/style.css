@@ -1,0 +1,5 @@
+.card_container{
+    display: flex;
+    box-shadow: .2em .2em .2em black;
+    height: 10em;
+}
